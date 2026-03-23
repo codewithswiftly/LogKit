@@ -1,8 +1,11 @@
 //
+//  LogFilter.swift
 //  LogKit
 //
-//  Created by RahulMac on 10/03/26.
+//  Created by Rahul Dasgupta on 02/08/25.
+//  © 2026 Rahul Dasgupta. All rights reserved.
 //
+
 
 import Foundation
 
