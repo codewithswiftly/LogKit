@@ -228,3 +228,10 @@ LogKit/
 ## License
 
 MIT © 2026 Rahul Das Gupta
+
+---
+
+## Show Your Support
+
+If you found this project useful, consider giving it a ⭐️ on GitHub!
+
